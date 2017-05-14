@@ -1,1 +1,1 @@
-ECHO is on.
+web: gnicorn routes:app
